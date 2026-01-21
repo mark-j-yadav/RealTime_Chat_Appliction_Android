@@ -7,8 +7,6 @@
 
 A modern, real-time chat application for Android built with **Kotlin**, inspired by WhatsApp. It supports one-on-one messaging, real-time delivery, typing indicators, online/offline status, and secure user authentication — all powered by **Firebase**.
 
-https://github.com/yourusername/RealTimeChat/assets/your-video-or-screenshot.gif  
-*(Add a short demo GIF/video here – highly recommended!)*
 
 ## ✨ Features
 
@@ -35,7 +33,7 @@ https://github.com/yourusername/RealTimeChat/assets/your-video-or-screenshot.gif
 
 ## 📸 Screenshots
 
-*(Add 4–6 high-quality screenshots here)*
+
 
 | Login Screen | Chat List | Chat Screen | Profile |
 |--------------|-----------|-------------|---------|
